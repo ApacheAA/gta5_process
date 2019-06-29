@@ -7,7 +7,7 @@ Scripts work on Windows level and don't change any game files or inject in proce
 
 ## Setup
 1. Download scripts to any folder
-2. Double-click on setup.bat or Install PSUtils manually from https://technet.microsoft.com/sysinternals/pssuspend.aspx
+2. Double-click on setup.bat or Install PSTools manually from https://technet.microsoft.com/sysinternals/pssuspend.aspx in default user directory (%USERPROFILE%/PSTools)
 
 ## Run
 1. Run GTA 5 / Online as usual
