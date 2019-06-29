@@ -2,6 +2,7 @@
 Scripts to control GTA5 process via keyboard shortcut
 
 __Safe for anticheat__
+
 Scripts work on Windows level and don't change any game files or inject in process.
 
 ## Setup
